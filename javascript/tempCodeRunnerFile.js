@@ -1,0 +1,1 @@
+    englishToBraille('123');
